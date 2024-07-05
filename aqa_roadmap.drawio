@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T16:34:23.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="u3HmQUehvvBs3aEF6Zib" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T17:15:46.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uNKR3r1vy2brmgsVtXC6" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="038dbb3l91Fe1eXV_z9x">
-    <mxGraphModel dx="5751" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6434" dy="3656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -697,7 +697,7 @@
           <mxGeometry x="-740" y="1625" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6UL8KgyMFbQNxVSEd4sD-159" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-745" y="1690" width="150" height="162" as="geometry" />
+          <mxGeometry x="-745" y="1690" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6UL8KgyMFbQNxVSEd4sD-160" value="Общие библиотеки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFDD1;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1695" width="140" height="30" as="geometry" />
@@ -728,9 +728,6 @@
         </mxCell>
         <mxCell id="6UL8KgyMFbQNxVSEd4sD-169" value="Factory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD9AD;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-455" y="1413.5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6UL8KgyMFbQNxVSEd4sD-170" value="Docker Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD9AD;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="1814" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6UL8KgyMFbQNxVSEd4sD-171" value="Task/ValueTask/async-await" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD9AD;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1500" y="1435.5" width="140" height="30" as="geometry" />
@@ -1071,6 +1068,9 @@
         </mxCell>
         <mxCell id="6UL8KgyMFbQNxVSEd4sD-261" value="amqp-client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD9AD;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-797" y="1415.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UL8KgyMFbQNxVSEd4sD-262" value="Docker.DotNet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD9AD;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="1471.5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
